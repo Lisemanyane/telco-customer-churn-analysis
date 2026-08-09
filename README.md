@@ -50,9 +50,9 @@ to churn and translate those findings into actionable business recommendations.
 
 ## Tools Used
 
-- Python (pandas, matplotlib, seaborn) for data cleaning and visualization
-- Microsoft Excel (PivotTables, PivotCharts, formulas) for parallel manual inspection and charting
-- Jupyter Notebook for the reproducible analysis workflow
+Microsoft Excel — PivotTables, PivotCharts, CORREL(), and formula-based data inspection
+Microsoft Word — Business Analytics Report and Dataset Inspection Report
+Microsoft PowerPoint — Business Presentation
 
 ## Recommendations Summary
 
