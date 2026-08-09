@@ -50,9 +50,9 @@ to churn and translate those findings into actionable business recommendations.
 
 ## Tools Used
 
-Microsoft Excel — PivotTables, PivotCharts, CORREL(), and formula-based data inspection
-Microsoft Word — Business Analytics Report and Dataset Inspection Report
-Microsoft PowerPoint — Business Presentation
+1. Microsoft Excel — PivotTables, PivotCharts, CORREL(), and formula-based data inspection
+2. Microsoft Word — Business Analytics Report and Dataset Inspection Report
+3. Microsoft PowerPoint — Business Presentation
 
 ## Recommendations Summary
 
